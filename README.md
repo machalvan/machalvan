@@ -5,7 +5,7 @@ I constantly have a side project that I am working on and I am always up for an 
 
 ### 📚 Tech Stack
 
-- HTML5, CSS3, ES6+
+- HTML5, CSS3, ES6+, TypeScript
 - React, JSX, Redux, Formik
 - npm, Yarn, Node.js, nvm
 - Babel, Webpack
